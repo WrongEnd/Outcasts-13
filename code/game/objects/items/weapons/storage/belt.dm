@@ -1164,7 +1164,6 @@
 	new /obj/item/ammo_box/magazine/mp443(src)
 	new /obj/item/ammo_box/magazine/mp443(src)
 	new /obj/item/ammo_box/magazine/mp443(src)
-	new /obj/item/weapon/gun/ballistic/automatic/pistol/rochell(src)
 
 /obj/item/weapon/storage/belt/terminatorholster
 	name = "Black holster"

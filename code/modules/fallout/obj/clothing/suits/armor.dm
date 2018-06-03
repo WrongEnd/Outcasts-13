@@ -307,7 +307,7 @@
 	allowed = list(/obj/item/weapon/gun/ballistic/revolver)
 
 /obj/item/clothing/suit/armor/f13/rochellcoat
-	name = "Raider queen longcoat"
+	name = "raider queen longcoat"
 	desc = "A heavy padded leather coat, greyed over time, and seemingly reinforced underneath. The leather looks tough and stout, with the letters RR stitched in on the left shoulder pad. This is a coat for a bad bitch."
 	icon_state = "rochellcoat"
 	item_state = "rochellcoat"
@@ -319,7 +319,7 @@
 	allowed = list(/obj/item/weapon/gun/ballistic/)
 
 /obj/item/clothing/suit/armor/f13/ncr/salvaged
-	name = "salvaged power armor"
+	name = "NCR salvaged power armor"
 	desc = "A set of T-45d power armor recovered by the NCR during the NCR-Brotherhood War.<br>NCR technicians have restored it to working order by replacing the back-mounted cylinders with a custom air conditioning module and stripping out the joint servomotors.<br>Due to the lack of servomotors in the limbs, this armor is so heavy that it feels like you're carrying a brahmin on your back!"
 	icon_state = "t45bpowerarmor"
 	item_state = "t45bpowerarmor"
@@ -331,7 +331,7 @@
 	strip_delay = 100
 	self_weight = 35
 	slowdown = 1
-	armor = list(melee = 60, bullet = 40, laser = 30, energy = 10, bomb = 15, bio = 40, rad = 20, fire = 40, acid = 30)
+	armor = list(melee = 60, bullet = 45, laser = 40, energy = 10, bomb = 15, bio = 40, rad = 20, fire = 40, acid = 30)
 
 /obj/item/clothing/suit/armor/f13/power_armor
 	w_class = WEIGHT_CLASS_HUGE

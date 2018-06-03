@@ -4,7 +4,7 @@
 	icon = 'icons/fallout/clothing/hats.dmi'
 
 /obj/item/clothing/head/helmet/f13/broken
-	name = "broken power helmet"
+	name = "broken t-41d power helmet"
 	desc = "This power armor helmet is so decrepit and battle-worn that it has ceased its primary function of protecting the wearer from harm.<br>It can still provide some very basic protection."
 	icon_state = "broken"
 	item_state = "broken"
@@ -94,7 +94,7 @@
 	self_weight = 2
 
 /obj/item/clothing/head/helmet/f13/khan
-	name = "Great Khan helmet"
+	name = "great khan helmet"
 	desc = "A piece of headwear commonly worn by the Great Khans that appears to resemble stereotypical traditional Mongolian helmets - likely adapted from a pre-War motorcycle helmet.<br>It is black with two horns on either side and a small spike jutting from the top, much like a pickelhaube.<br>A leather covering protects the wearer's neck and ears from sunburn."
 	icon_state = "khan"
 	item_state = "khan"
@@ -105,7 +105,7 @@
 	self_weight = 1.5
 
 /obj/item/clothing/head/helmet/f13/marine
-	name = "combat helmet"
+	name = "combat helmet mark I"
 	desc = "A pre-War ballistic assembly, designed to provide moderate protection in combat.<br>Overtime the model became significantly less effective, and was replaced with reinforced combat helmet mark I."
 	icon_state = "marine"
 	item_state = "marine"
@@ -154,7 +154,7 @@
 	self_weight = 1
 
 /obj/item/clothing/head/helmet/f13/liquidhelmet
-	name = "Ballistic helmet"
+	name = "ballistic helmet"
 	desc = "A custom built ballistic helmet made with very advanced kevlar and dyneema hybrid plates for maximum protection against most projectiles. It appears to be based on an NCR ranger's helmet, including a similar night vision function."
 	icon_state = "liquidhelmet"
 	item_state = "liquidhelmet"
@@ -189,7 +189,7 @@
 		A.UpdateButtonIcon()
 
 /obj/item/clothing/head/helmet/f13/huntermask
-	name = "Gas mask"
+	name = "gas mask"
 	desc = "Before you lies a rusted World War II gas mask, seemingly modified to have thermal capabilities. Beside the mask is a continuous black cloth, which seems to be able to wrap around your entire head. This ensemble appears to favor those who wish to protect their identities at all costs."
 	icon_state = "huntermask"
 	item_state = "huntermask"
@@ -250,7 +250,7 @@
 	self_weight = 1
 
 /obj/item/clothing/head/helmet/f13/legvexil
-	name = "vexillarius hat"
+	name = "vexillarius helmet"
 	desc = "Vis gregis est lupus, ac vis lupi est grex.<br>100% of wolf."
 	icon_state = "legvexil"
 	item_state = "legvexil"
@@ -628,8 +628,8 @@
 	self_weight = 5
 
 /obj/item/clothing/head/helmet/power_armor/ncr
-	name = "salvaged power helmet"
-	desc = "A pre-War power armor helmet, recovered and maintained by NCR engineers.<br>The inside is aggravatingly stuffy and hot."
+	name = "NCR power helmet"
+	desc = "A pre-War power armor helmet, recovered and maintained by NCR engineers. It has a rack of cooling fans but only excessive padding for neck support."
 	icon_state = "t45bhelmet"
 	item_state = "t45bhelmet"
 	flags = HEADCOVERSEYES | HEADCOVERSMOUTH

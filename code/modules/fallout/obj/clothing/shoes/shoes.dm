@@ -49,7 +49,7 @@
 	pockets = /obj/item/weapon/storage/internal/pocket/shoes
 
 /obj/item/clothing/shoes/f13/khan
-	name = "Great Khan boots"
+	name = "great khan boots"
 	desc = "A pair of leather boots reinforced with metal plates.<br>These are commonly worn by Great Khans raiders."
 	icon_state = "legionmetal" //It's that simple
 	item_state = "legionmetal"
@@ -72,7 +72,7 @@
 	pockets = /obj/item/weapon/storage/internal/pocket/shoes
 
 /obj/item/clothing/shoes/f13/military/light //I'm a ninja!
-	name = "advanced combat boots"
+	name = "assault boots"
 	desc = "High speed, no-drag combat boots designed for use by U.S. special forces before the Great War.<br>The soles are made of aerated rubber to silence the movement of the wearer."
 	self_weight = 0.5
 	flags = NOSLIP | QUIETSTEPSOUND
@@ -107,7 +107,7 @@
 	pockets = /obj/item/weapon/storage/internal/pocket/shoes
 
 /obj/item/clothing/shoes/cyberboots
-	name = "Waster's boots"
+	name = "waster's boots"
 	desc = "Steel toed black jackboots, now a bit weathered from years of use."
 	icon_state = "cyberboots"
 	item_state = "cyberboots"

@@ -166,7 +166,7 @@
 	max_ammo = 7
 
 /obj/item/ammo_box/magazine/internal/shot/garand
-	name = "En bloc clip"
+	name = "en-bloc clip"
 	desc = "A metallic clip designed to hold cartridges of ammunition before they're inserted into a rifle with an internal magazine."
 	ammo_type = /obj/item/ammo_casing/m308
 	icon_state = "enbloc"
@@ -205,7 +205,7 @@
 	max_ammo = 15
 
 /obj/item/ammo_box/magazine/m308
-	name = "rifle .308 magazine"
+	name = ".308 rifle magazine"
 	ammo_type = /obj/item/ammo_casing/m308
 	caliber = "308mm"
 	icon_state = "75"

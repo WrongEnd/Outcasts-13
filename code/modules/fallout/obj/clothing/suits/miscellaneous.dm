@@ -76,7 +76,7 @@
 	armor = list(melee = 30, bullet = 40, laser = 40, energy = 35, bomb = 35, bio = 20, rad = 40, fire = 40, acid = 30)
 
 /obj/item/clothing/suit/f13/rolandcoat
-	name = "Gaucho duster"
+	name = "gaucho duster"
 	desc = "The weathered coat of a veteran gunslinger, dirtied with the sands of the wasteland over time."
 	icon_state = "rolandcoat"
 	item_state = "rolandcoat"
@@ -86,7 +86,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight)
 
 /obj/item/clothing/suit/rolandcoatremake
-	name = "Gaucho duster"
+	name = "gaucho duster"
 	desc = "The weathered coat of a veteran gunslinger, dirtied with the sands of the wasteland over time."
 	icon_state = "rolandcoatremake"
 	item_state = "rolandcoatremake"
@@ -96,7 +96,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight)
 
 /obj/item/clothing/suit/loomiscoat
-	name = "Trenchcoat"
+	name = "trenchcoat"
 	desc = "A vintage London Fog trenchcoat, complete with belt tie for a noir feel."
 	icon_state = "loomiscoat"
 	item_state = "loomiscoat"
@@ -107,7 +107,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/stokercoat
-	name = "Trenchcoat"
+	name = "trenchcoat"
 	desc = "A vintage London Fog trenchcoat, complete with belt tie for a noir feel."
 	icon_state = "stokercoat"
 	item_state = "stokercoat"
@@ -118,7 +118,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/communitycoat
-	name = "Trenchcoat"
+	name = "trenchcoat"
 	desc = "A vintage London Fog trenchcoat, complete with belt tie for a noir feel."
 	icon_state = "communitycoat"
 	item_state = "communitycoat"
@@ -129,7 +129,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/belmontcoat
-	name = "Longcoat"
+	name = "longcoat"
 	desc = "A very dated longcoat presumably styled after Renaissance-era clothing, with one of the more distinguishing features being a large white Christian cross crafted from leather embroidered onto the back of it. Among other key traits are deeply seated pockets that could accomodate a multitude of weapons. and rich tan fur lining the sleeves, collar and hem."
 	icon_state = "belmontcoat"
 	item_state = "belmontcoat"
@@ -140,7 +140,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/communitycoatalt
-	name = "Longcoat"
+	name = "longcoat"
 	desc = "A very dated longcoat presumably styled after Renaissance-era clothing, with one of the more distinguishing features being a large white Christian cross crafted from leather embroidered onto the back of it. Among other key traits are deeply seated pockets that could accomodate a multitude of weapons. and rich tan fur lining the sleeves, collar and hem."
 	icon_state = "communitycoatalt"
 	item_state = "communitycoatalt"
@@ -151,7 +151,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/belmontcoatalt
-	name = "Mantle"
+	name = "mantle"
 	desc = "A very roughly sewn leather mantle lined partially around the collar and shoulders with the fur of an unknown animal. Albeit not too uncommon on it's own, one of the more distinguishing features of it are the large Christian cross crafted from leather embroidered onto the back of it. Among other key traits are deeply seated pockets that could accomodate a multitude of weapons."
 	icon_state = "belmontcoatalt"
 	item_state = "belmontcoatalt"
@@ -162,7 +162,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/juliuscoat
-	name = "Longcoat"
+	name = "longcoat"
 	desc = "A modern brown longcoat featuring decorations of vibrant animal print along the collar and cuffs, and leather lining across the shoulders and upper back. Among other key traits are deeply seated pockets that could accomodate a multitude of weapons."
 	icon_state = "juliuscoat"
 	item_state = "juliuscoat"
@@ -173,7 +173,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/cruzcoat
-	name = "Fur coat"
+	name = "fur coat"
 	desc = "A solid white long coat with medium-blue accents decorating the cuffs, hem and some parts of the collar which has been generously lined with several layers of rich fluffy fur from an unknown animal. Already a bit of an uncommon sight on it's own, one of the more distinguishing features of it are the deeply seated pockets that could accomodate a multitude of weapons."
 	icon_state = "cruzcoat"
 	item_state = "cruzcoat"
@@ -184,7 +184,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/vampirecoat
-	name = "Aristocrat's coat"
+	name = "aristocrat's coat"
 	desc = "A very regal looking longcoat embroidered with numerous golden decorations and buttons. The collar, cuffs and hem appear to have been sewn from a similarly shaded fabric, giving the gold-on-black a peculiar contrast against one another."
 	icon_state = "vampirecoat"
 	item_state = "vampirecoat"
@@ -195,7 +195,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/wolfjacket
-	name = "Grey suit jacket"
+	name = "grey suit jacket"
 	desc = "A simple yet classy grey suit jacket with large inner pockets."
 	icon_state = "wolfjacket"
 	item_state = "wolfjacket"
@@ -206,7 +206,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/harryjacket
-	name = "Sepia suit jacket"
+	name = "sepia suit jacket"
 	desc = "A simple yet classy sepia suit jacket with large inner pockets."
 	icon_state = "harryjacket"
 	item_state = "harryjacket"
@@ -217,7 +217,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/gatjacket
-	name = "Leather jacket"
+	name = "leather jacket"
 	desc = "A stylish purple and black leather jacket with vague animal printing on the shoulders and back. About time your burnt ass woke up."
 	icon_state = "gatjacket"
 	item_state = "gatjacket"
@@ -228,7 +228,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes)
 
 /obj/item/clothing/suit/rolandcoatthree
-	name = "Gaucho duster"
+	name = "gaucho duster"
 	desc = "The weathered coat of a veteran gunslinger, dirtied with the sands of the wasteland over time."
 	icon_state = "rolandcoatthree"
 	item_state = "rolandcoatthree"
@@ -238,7 +238,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight)
 
 /obj/item/clothing/suit/gunslingercoat
-	name = "Gaucho duster"
+	name = "gaucho duster"
 	desc = "The weathered coat of a veteran gunslinger, dirtied with the sands of the wasteland over time."
 	icon_state = "gunslingercoat"
 	item_state = "gunslingercoat"
@@ -248,7 +248,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight)
 
 /obj/item/clothing/suit/johncowboycoat
-	name = "Outlaw's duster"
+	name = "outlaw's duster"
 	desc = "The weathered coat of a runaway outlaw, dirtied with the sands of the wasteland over time."
 	icon_state = "johncowboycoat"
 	item_state = "johncowboycoat"
@@ -258,7 +258,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight)
 
 /obj/item/clothing/suit/rolandcloak
-	name = "Gaucho cloak"
+	name = "gaucho cloak"
 	desc = "The weathered cloak of a veteran gunslinger, dirtied with the sands of the wasteland over time. It appears to have several cuts and bullet holes, presumably the result of many battles."
 	icon_state = "rolandcloak"
 	item_state = "rolandcloak"
@@ -268,7 +268,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight)
 
 /obj/item/clothing/suit/rolandponcho
-	name = "Gaucho poncho"
+	name = "gaucho poncho"
 	desc = "The weathered wool poncho of a veteran gunslinger, dirtied with the sands of the wasteland over time."
 	icon_state = "rolandponcho"
 	item_state = "rolandponcho"
@@ -278,7 +278,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/melee,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight,/obj/item/weapon/gun,/obj/item/ammo_box,/obj/item/ammo_casing)
 
 /obj/item/clothing/suit/terminatorjacket
-	name = "Leather jacket"
+	name = "leather jacket"
 	desc = "A very 80's styled leather biker jacket, perfect for fighting liquid metal androids in."
 	icon_state = "terminatorjacket"
 	item_state = "terminatorjacket"
@@ -359,7 +359,7 @@
 	allowed = list(/obj/item/weapon/pen,/obj/item/weapon/paper,/obj/item/weapon/stamp,/obj/item/weapon/reagent_containers/food/drinks/flask,/obj/item/weapon/storage/box/matches,/obj/item/weapon/lighter,/obj/item/clothing/mask/cigarette,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/device/flashlight,/obj/item/weapon/gun,/obj/item/weapon/storage/pill_bottle/dice,/obj/item/weapon/dice)
 
 /obj/item/clothing/suit/f13/elder //Robes are made of finest cloth, so you won't be able to put sharp objects but pens in.
-	name = "Brotherhood Elder's robe"
+	name = "brotherhood elder's robe"
 	desc = "A blue cloth robe with scarlet red highlights, traditionally worn by the Brotherhood of Steel Elders."
 	icon_state = "elder"
 	item_state = "suit-command"

@@ -1,7 +1,7 @@
 //Fallout 13 ballistic firearms directory
 
 /obj/item/weapon/gun/ballistic/automatic/pistol/n99
-	name = "10-mm pistol"
+	name = "10mm pistol"
 	desc = "The N99 self-loading pistol is known for its ability to survive in the harshest of conditions.<br>This great weapon is able to be reliably restored to working condition, even after extended exposure to hard elements without maintenance."
 	icon_state = "n99"
 	item_state = "n99"
@@ -37,22 +37,6 @@
 	fire_delay = 0
 	w_class = WEIGHT_CLASS_NORMAL
 
-/obj/item/weapon/gun/ballistic/automatic/pistol/rochell
-	name = "Stainless MP443 pistol"
-	desc = "The MP443, a pistol of Russian origin with quite a high magazine capacity, albeit with a twist. This one appears to be almost entirely stainless steel and surprisingly well kempt, a rarity in weapons manufactured before the war. The slide of the gun appears to have the name ''Rochell'' carved semi-crudely into it, along with three notches below it."
-	icon_state = "rochell"
-	icon = 'icons/fallout/objects/guns/ballistic.dmi'
-	item_state = "rochell"
-	w_class = 2
-	force = 13
-	origin_tech = "combat=2;materials=2"
-	mag_type = /obj/item/ammo_box/magazine/mp443
-	fire_sound = 'sound/weapons/smithfire.ogg'
-	can_suppress = 0
-	burst_size = 1
-	fire_delay = 0
-	w_class = WEIGHT_CLASS_NORMAL
-
 /obj/item/weapon/gun/ballistic/automatic/pistol/browning
 	name = "9mm pistol"
 	desc = "A Browning Hi-Power reproduction crafted by M&A Guns Manufacturers, fairly common throughout the wasteland. Chambered in 9x19mm."
@@ -70,7 +54,7 @@
 	w_class = WEIGHT_CLASS_NORMAL
 
 /obj/item/weapon/gun/ballistic/automatic/pistol/luger
-	name = "Luger P08"
+	name = "P08"
 	desc = "A classic .30 caliber (nine milimeter) Luger P08 pistol from WW2 surplus. This thing is older than the people shooting it."
 	icon_state = "luger"
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
@@ -169,7 +153,7 @@
 	w_class = WEIGHT_CLASS_NORMAL
 
 /obj/item/weapon/gun/ballistic/automatic/pistol/killerseven
-	name = "Killer7"
+	name = "Killer Seven"
 	desc = "An offshoot reproduction of the LAR Grizzly semi-automatic pistol (itself based on the 1911), unique in the fact that unlike other large bore handguns it doesn't rely on a gas operated system to cycle cartridges and utilizes heavy springs and solid steel construction to handle the massive cartridge it fires with minimal recoil. There seems to be a large scope mounted to the slide, granting the shooter a much longer sight radius. Chambered in .460 S&W Magnum."
 	icon_state = "killerseven"
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
@@ -188,7 +172,7 @@
 	w_class = WEIGHT_CLASS_NORMAL
 
 /obj/item/weapon/gun/ballistic/automatic/pistol/mauser
-	name = "Mauser C96"
+	name = "C96"
 	desc = "What looks to be a WW2-era Mauser C96 broom handle pistol. It seems to be modified to have it's internal magazine exchanged with a more modern ten round box magazine."
 	icon_state = "mauser"
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
@@ -852,11 +836,11 @@
 	scopetype = /obj/screen/fullscreen/scope/short
 
 /obj/item/weapon/gun/ballistic/automatic/rifle
-	name = "Automatic Rifle .308"
+	name = "MA4 Battle Rifle"
 	icon_state = "rifle-automatic"
 	item_state = "rifle308"
 	wielded_icon = "rifle308-wielded"
-	desc = "A semi-automatic battle rifle that takes .308 rounds."
+	desc = "A semi-automatic battle rifle manufactured as a prototype in the West. Chambered in 308. rounds."
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
 	origin_tech = "combat=3;materials=2"
 	mag_type = /obj/item/ammo_box/magazine/m308
@@ -930,7 +914,7 @@
 	burst_size = 0
 
 /obj/item/weapon/gun/ballistic/shotgun/rifle
-	name = "Rifle .308"
+	name = "Hunting Rifle"
 	desc = "A pre-War bolt-action hunting rifle."
 	icon_state = "rifle"
 	item_state = "rifle"
@@ -977,8 +961,8 @@
 	wielded_icon = "rifle-wielded"
 
 /obj/item/weapon/gun/ballistic/automatic/assault_rifle
-	name = "Assault Rifle 5.56mm"
-	desc = "Also known as a Service Rifle by NCR troops, the Assault Rifle is a semi-automatic medium power rifle which takes the common 5.56mm cartridge and has a magazine capacity of 20 rounds."
+	name = "Service Rifle"
+	desc = "A rifle manufactured in mass to support the NCR's war effort. Chambered in 5.56 with a magazine capacity of 20 rounds."
 	icon_state = "assault-rifle"
 	item_state = "assault"
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
@@ -1018,7 +1002,7 @@
 	scopetype = /obj/screen/fullscreen/scope/medium
 
 /obj/item/weapon/gun/ballistic/automatic/smg10mm
-	name = "10-mm submachine gun"
+	name = "10mm submachine gun"
 	desc = "An H&K MP9 submachine gun (10mm caliber variant). An average submachine gun which can operate in both single and automatic fire modes."
 	icon_state = "smg10mm"
 	item_state = "smg10mm"
@@ -1071,7 +1055,7 @@
 	wielded_icon = "maverick-wielded"
 
 /obj/item/weapon/gun/ballistic/revolver/coachgun
-	name = "Coach gun"
+	name = "coach gun"
 	desc = "A worn 18th century side-by-side coach shotgun, with the twist that it has somehow been given a modern day pump-action system and rechambered in 12 gauge shells for blasting wasteland scum. Space redneck approved!"
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
 	icon_state = "coachgun"
@@ -1114,8 +1098,8 @@
 	wielded_icon = "ak74-wielded"
 
 /obj/item/weapon/gun/ballistic/automatic/val
-	name = "AS Val"
-	desc = "The AS Val was a Soviet-designed assault rifle in the old pre-war world. Production began in the first half of the 1980s in the Central Research Institute of Precision Engineering (TSNIITOCHMASH), in the city of Klimovsk, Moscow region. The lead designer of the rifle was Pyotr Serdyukov. It has been rechambered to take the 5.56mm cartridge, and crudely enough seems to take AK-styled magazines as well."
+	name = "AS VAL"
+	desc = "The AS VAL was a Soviet-designed assault rifle in the old pre-war world. Production began in the first half of the 1980s in the Central Research Institute of Precision Engineering (TSNIITOCHMASH), in the city of Klimovsk, Moscow region. The lead designer of the rifle was Pyotr Serdyukov. It has been rechambered to take the 5.56mm cartridge, and crudely enough seems to take AK-styled magazines as well."
 	icon_state = "val"
 	item_state = "val"
 	slot_flags = SLOT_BACK
@@ -1218,7 +1202,7 @@
 	wielded_icon = "terminator-wielded"
 
 /obj/item/weapon/gun/ballistic/shotgun/winchesterrifle
-	name = "Repeating rifle"
+	name = "lever action repeater"
 	desc = "This lever action rifle appears to have been based on a Winchester model 1873, but with an amazing magazine capacity and an outlandish supernatural quality to it you can't quite comprehend."
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
 	icon_state = "winchester"
@@ -1248,7 +1232,7 @@
 	wielded_icon = "dinnerbell-wielded"
 
 /obj/item/weapon/gun/ballistic/shotgun/huntingshotgun
-	name = "Remington Model 870"
+	name = "R870"
 	desc = "The Remington Model 870 is a pump-action shotgun manufactured by Remington Arms Company, LLC. It was widely used by the public for sport shooting, hunting, and self-defense and used by law enforcement and military organizations worldwide before the war. Chambered in 12 Gauge shells."
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
 	icon_state = "huntingshotgun"
@@ -1278,7 +1262,7 @@
 	wielded_icon = "medicine-wielded"
 
 /obj/item/weapon/gun/ballistic/shotgun/henry
-    name = "Henry Big boy"
+    name = "Henry Big Boy"
     desc = "A reproduction of many infamous lever action rifles featuring brass hardware and a walnut stock, complete with a ten round magazine tube. Chambered in .44 Remington Magnum"
     icon = 'icons/fallout/objects/guns/ballistic.dmi'
     icon_state = "henry"
@@ -1293,7 +1277,7 @@
     wielded_icon = "henry-wielded"
 
 /obj/item/weapon/gun/ballistic/shotgun/henrytwo
-    name = "Henry Big boy"
+    name = "Henry Big Boy"
     desc = "A reproduction of many infamous lever action rifles featuring chromed hardware and a maple stock, complete with a ten round magazine tube. Chambered in .357 Magnum"
     icon = 'icons/fallout/objects/guns/ballistic.dmi'
     icon_state = "henrytwo"
@@ -1308,7 +1292,7 @@
     wielded_icon = "henrytwo-wielded"
 
 /obj/item/weapon/gun/ballistic/revolver/doublerifle
-	name = "Double rifle"
+	name = "double barreled rifle"
 	desc = "A modern reproduction of a Holland & Holland double rifle chambered for the powerful .460 Smith & Wesson Magnum cartridge. The gun itself features blued barrels, gold plated triggers and matching hammers, and an engraved box-lock action. The stock and furniture seem to be crafted from a rich mahogany."
 	icon_state = "doublerifle"
 	item_state = "doublerifle"
@@ -1338,7 +1322,7 @@
 	attack_verb = list("stabbed", "sliced", "cut", "slashed")
 
 /obj/item/weapon/gun/ballistic/automatic/bozar
-	name = "\improper Bozar"
+	name = "MM5 Bozar"
 	desc = "The ultimate refinement of the sniper's art.<br>Although somewhat finicky and prone to jamming if not kept immacuately clean, its accuracy more than makes up for its extra maintenance requirements."
 	icon = 'icons/fallout/objects/guns/ballistic.dmi'
 	icon_state = "bozar"
@@ -1348,10 +1332,11 @@
 	mag_type = /obj/item/ammo_box/magazine/m223
 	weapon_weight = WEAPON_HEAVY
 	fire_sound = 'sound/weapons/Gunshot_smg.ogg'
-	can_suppress = 0
+	can_suppress = 1
 	burst_size = 3
 	fire_delay = 1
 	zoomable = TRUE
+	slot_flags = SLOT_BACK
 	zoom_amt = 7
 	w_class = WEIGHT_CLASS_HUGE
 	recoil = 3

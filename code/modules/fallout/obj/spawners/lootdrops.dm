@@ -30,8 +30,7 @@
 	color = "#CCCCCC"
 	loot = list(
 	/obj/item/weapon/gun/ballistic/automatic/pistol/n99 = 33,
-	/obj/item/weapon/gun/ballistic/shotgun/pipe = 33,
-	/obj/item/weapon/gun/energy/laser/pistol = 33)
+	/obj/item/weapon/gun/ballistic/shotgun/pipe = 33)
 
 /obj/effect/spawner/lootdrop/wrange_middle
 	color = "#0AAAFA"

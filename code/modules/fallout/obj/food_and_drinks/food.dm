@@ -32,7 +32,7 @@
 
 /obj/item/weapon/reagent_containers/food/snacks/meat/slab/deathclaw
 	name = "deathclaw meat"
-	desc = "A slab of hard but delicious deathclaw meat."
+	desc = "A slab of hard but delicious deathclaw meat.<br>You can taste the victory."
 	list_reagents = list("nutriment" = 9, "vitamin" = 9)
 	bitesize = 6 //Big slabs of meat from a massive creature
 	filling_color = "#FA8072"
@@ -62,7 +62,7 @@
 //WASTELAND JUNK FOOD
 
 /obj/item/weapon/reagent_containers/food/snacks/f13
-	name = "ERROR"
+	name = "quit spawning shit asshole"
 	desc = "Badmins spawn shit!"
 	icon = 'icons/fallout/objects/food&drinks/food.dmi'
 

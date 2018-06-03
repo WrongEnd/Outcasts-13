@@ -27,7 +27,7 @@
 	tint = 0
 
 /obj/item/clothing/glasses/sunglasses/f13/johnglasses
-	name = "Tinted sunglasses"
+	name = "tinted sunglasses"
 	desc = "A classy pair of shades with a cyan tint."
 	icon_state = "johnglasses"
 	item_state = "johnglasses"

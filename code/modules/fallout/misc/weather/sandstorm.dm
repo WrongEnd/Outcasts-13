@@ -6,7 +6,7 @@ proc/sandstorm(var/position)
 				M << sound('sound/f13effects/sandstorm_warning.ogg')
 				to_chat(M,"A sudden gust of wind whips up particles of sand and dust all around you.")
 				spawn(100)
-					to_chat(M,"The clouds on the horizon get darker... The storm is coming! I better find a safe shelter now.")
+					to_chat(M,"The clouds on the horizon get darker... A storm is approaching! I better find a safe shelter now.")
 					spawn(600)
 						stormactive=1
 						M << sound('sound/f13effects/thunder_distant_1.ogg')
